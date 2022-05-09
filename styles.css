@@ -78,7 +78,7 @@ h1 {
 }
 
 .primary {
-  color: #16D9E3;
+  color: #fff;
 }
 
 .board {
@@ -88,7 +88,7 @@ h1 {
   position: relative;
   width: 500px;
   height: 500px;
-  background:  radial-gradient(circle, #ffffff, #dadae1, #b4b7c4, #8e96a8, #67768c);
+  background:  radial-gradient(circle, #d7e0ec, #bac4d3, #9daabb, #828fa3, #67768c);
   box-shadow: -8px -8px 20px #2A333D, 10px 7px 20px #475462;
   border-radius: 30px;
   overflow: hidden;
