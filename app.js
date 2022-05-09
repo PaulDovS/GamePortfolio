@@ -55,7 +55,7 @@ function setTime(value) {
 
 function finishGame () {
     timeEl.parentNode.classList.add('hide')
-    board.innerHTML = `<h2>Счёт:<span class="primary">${score}</span></h2>`
+    board.innerHTML = `<h2>Счёт: <span class="primary">${score}</span></h2>`
 }
 
 
