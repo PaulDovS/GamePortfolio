@@ -67,9 +67,6 @@ function createRandomCircle() {
     const y = getRandomNumber(0, height - size)
     const color = getRandomColor()
 
-    // circle.addEventListener('mouseover',() => setColor(circle))
-    // circle.addEventListener('mouseleave',() => removeColor(circle))
-
     circle.classList.add('circle')
     circle.style.width = `${size}px`
     circle.style.height = `${size}px`
