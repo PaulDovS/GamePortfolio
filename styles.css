@@ -39,7 +39,7 @@ h1 {
   height: 100vh;
   width: 100vw;
   transition: margin 0.5s ease-out;
-  background:  radial-gradient(circle, #67768c, #8e96a8, #b4b7c4, #dadae1, #ffffff);
+  background:  radial-gradient(circle, #d7e0ec, #bac4d3, #9daabb, #828fa3, #67768c);
 }
 
 .screen.up {
@@ -88,7 +88,7 @@ h1 {
   position: relative;
   width: 500px;
   height: 500px;
-  background:  radial-gradient(circle, #d7e0ec, #bac4d3, #9daabb, #828fa3, #67768c);
+  background:  radial-gradient(circle, #67768c, #8e96a8, #b4b7c4, #dadae1, #ffffff);
   box-shadow: -8px -8px 20px #2A333D, 10px 7px 20px #475462;
   border-radius: 30px;
   overflow: hidden;
